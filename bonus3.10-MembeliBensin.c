@@ -1,7 +1,6 @@
 /*
 Nama    : Ihsan Fauzi
 Kelas   : 1B-D4
-NIM     : 241524048
 */
 
 #include <stdio.h>
